@@ -5,4 +5,7 @@ img {
 body {
     text-align: center;
     font-family: "Arial";
+    background-image: url(https://orig00.deviantart.net/61b9/f/2013/082/e/5/mountain_view_by_rpiko1-d5yz37f.jpg);
+  /*  background-position: 50%50%);
+    background-size: cover; */
 }
